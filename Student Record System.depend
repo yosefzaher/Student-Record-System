@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1714113604 source:d:\full embedded systems dibloma\student record system project\student record system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	<ctype.h>
+	"StudentRecordSystem.h"
+
+1714113928 source:d:\full embedded systems dibloma\student record system project\student record system\studentrecordsystem.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"StudentRecordSystem.h"
+
+1714113604 d:\full embedded systems dibloma\student record system project\student record system\studentrecordsystem.h
+	"DataType.h"
+
+1714104189 d:\full embedded systems dibloma\student record system project\student record system\datatype.h
+
