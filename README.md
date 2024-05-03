@@ -3,20 +3,24 @@
 
 ## Description
 <h3>This is a simple C project for managing student records.</h3>
+
 ~~~
 **********************************************************************
                 Hello in Student Record System :)
 **********************************************************************
 ~~~
+
 <h3>The system has two modes: Admin and Student.</h3>
+
 ~~~
 Choose The Mode You Want :       Admin -> Any Number     Student -> Zero
 =>Enter a number:
-
 ~~~
+
 <h3>In Admin mode, users can add, remove, view, and edit student records.</h3>
 <h3>In Student mode, users can view their own record.</h3>
 <h3>And both of them has a choice to quite The App .</h3>
+
 ~~~
 Choose The Mode You Want :       Admin -> Any Number     Student -> Zero
 =>Enter a number: 1
@@ -39,9 +43,8 @@ What do you want to do :-
     7 => Quit The System .
 ==========================
 =>Enter a number:
-~~~
 
-~~~
+
 ==========================
 Please Wait a Seconds Starting Student Mode...............
 ==========================
@@ -59,8 +62,9 @@ What do you want to do :-
     3 => Edit Your Name .
     4 => Quit The System .
 ==========================
-=>Enter a number:
+=>Enter a number: 
 ~~~
+
 
 <h4>========================================================================================================</h4>
 
