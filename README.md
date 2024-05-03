@@ -82,8 +82,13 @@ What do you want to do :-
   - Edit His Name
   - Quit The System
 
+## Notes
+There are another updates will added to the system like :-
+ - File access System to save student record after quite the system
+ - some inhancements in the code itself and others...
+
 ## Contributers 
- -ENG.Yosef Zaher
+ ENG.Yosef Zaher
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
