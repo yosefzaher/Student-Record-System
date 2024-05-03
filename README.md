@@ -82,3 +82,9 @@ What do you want to do :-
   - Edit His Name
   - Quit The System
 
+## Contributers 
+ -ENG.Yosef Zaher
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
