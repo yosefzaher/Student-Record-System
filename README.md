@@ -1,5 +1,4 @@
 # Student Record System
-<h4>========================================================================================================</h4>
 
 ## Description
 <h3>This is a simple C project for managing student records.</h3>
@@ -17,9 +16,9 @@ Choose The Mode You Want :       Admin -> Any Number     Student -> Zero
 =>Enter a number:
 ~~~
 
-<h3>In Admin mode, users can add, remove, view, and edit student records.</h3>
-<h3>In Student mode, users can view their own record.</h3>
-<h3>And both of them has a choice to quite The App .</h3>
+<h4>In Admin mode, users can add, remove, view, and edit student records.</h4>
+<h4>In Student mode, users can view their own record.</h4>
+<h4>And both of them has a choice to quite The App .</h4>
 
 ~~~
 Choose The Mode You Want :       Admin -> Any Number     Student -> Zero
@@ -66,7 +65,6 @@ What do you want to do :-
 ~~~
 
 
-<h4>========================================================================================================</h4>
 
 ## Features
 - Admin Mode:
@@ -83,5 +81,4 @@ What do you want to do :-
   - Edit His Password
   - Edit His Name
   - Quit The System
-<h4>========================================================================================================</h4>
 
