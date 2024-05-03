@@ -83,13 +83,19 @@ What do you want to do :-
   - Quit The System
 
 ## Notes
-There are another updates will added to the system like :-
+This project is not the final version; it's a demo. 
+There are another updates and features will added to the system like :-
  - File access System to save student record after quite the system
- - some inhancements in the code itself and others...
+ - some inhancements in the code itself 
+ - Inhance the project by make it in layers and each layer has some module to optimize the project
 
 ## Contributers 
  ENG.Yosef Zaher
 
+## FinalLy
+If you have any suggestions for modifications or improvements, please feel free to let me know. Your feedback and assistance are highly appreciated.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 
